@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Maruthi
+- 👀 I’m interested in Web Development with Django
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on projects using Django Rest Framework
+- 📫 You can reach me on Email: MaruthiSai92@gmail.com, Linkedin: https://www.linkedin.com/in/sai-maruthi/
